@@ -13,5 +13,5 @@ You will also see any lint errors in the console.
 
 # Techs 🚀
 * [Typescript](https://www.typescriptlang.org/)
-* [Styled components](https://styled-components.com/)
+* [Chakra UI](https://chakra-ui.com/)
 * [MirageJS](https://miragejs.com/)
